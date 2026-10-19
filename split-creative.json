@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-ersatzteillager.jpg",
+  "primary": "#47AB32",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#1B1B1B",
+  "kicker": "WIR SUCHEN IN VERSMOLD",
+  "headline": [
+   "Kundenberater",
+   "Ersatzteile (m/w/d)"
+  ],
+  "subline": "Land- und Baumaschinen – unbefristet, mit Urlaubs- & Weihnachtsgeld.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.35,
+   0.45
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-traktor.jpg",
+  "primary": "#47AB32",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN VERSMOLD",
+  "headline": [
+   "Kundenberater Ersatzteile (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristeter Arbeitsvertrag",
+   "Urlaubs- & Weihnachtsgeld",
+   "Jobrad-Leasing"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.45
+  ]
+ }
+]

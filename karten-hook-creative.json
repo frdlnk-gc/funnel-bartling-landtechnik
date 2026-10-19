@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-ersatzteillager.jpg",
+ "fokus": [
+  0.35,
+  0.4
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#47AB32",
+ "headline": [
+  "KUNDEN-",
+  "BERATER"
+ ],
+ "headline_zusatz": "Ersatzteile (m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Versmold · Gütersloh · Bielefeld & Umgebung"
+}

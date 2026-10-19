@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-ersatzteile.jpg",
+  "img/foto-hd-werkstatt.jpg",
+  "img/foto-hd-aufsitzmaeher.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.45
+  ],
+  [
+   0.6,
+   0.5
+  ],
+  [
+   0.45,
+   0.5
+  ]
+ ],
+ "primary": "#47AB32",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Kunden-",
+  "berater"
+ ],
+ "headline_zusatz": "Ersatzteile (m/w/d)",
+ "ort": "Versmold · Halle (Westf.) · Gütersloh",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
