@@ -1,0 +1,140 @@
+{
+  "firma": "Bartling Landtechnik",
+  "stelle": "Kundenberater Ersatzteile (m/w/d)",
+  "ort": "Versmold",
+  "plz": "33775",
+  "branche": "landwirtschaft",
+  "farbe_primary": "#47AB32",
+  "farbe_secondary": "#1B1B1B",
+  "region_badge": "Versmold & Umgebung",
+  "benefit_top": "Urlaubs- & Weihnachtsgeld",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Urlaubsgeld & Weihnachtsgeld",
+    "Jobrad-Leasing",
+    "Kostenlose Gartengeräte zur privaten Nutzung",
+    "Ermäßigte Preise für Pflanzen und Gartenprodukte",
+    "Interne Karrierechancen",
+    "Kostenübernahme für berufliche Zertifizierungen",
+    "Vermögenswirksame Leistungen",
+    "Keine Montageeinsätze mit Übernachtung",
+    "Flache Hierarchien & freundliches Arbeitsklima"
+  ],
+  "aufgaben": [
+    "Du berätst Kunden und unsere eigene Fachwerkstatt bei Auswahl und Bestellung von Ersatzteilen",
+    "Du findest die passenden Teile anhand von Explosionszeichnungen",
+    "Du organisierst das Ersatzteillager – Bestellungen, Wareneingänge und Einlagerung",
+    "Du wickelst Garantieansprüche ab – Schwerpunkt Land- und Baumaschinen"
+  ],
+  "anforderung": "Kaufmännische oder technische Ausbildung – oder als Landwirt, Fachkraft für Agrarservice bzw. aus dem GaLaBau. Dazu Interesse an Land- und Baumaschinen und Freude an der Beratung. Die Einarbeitung übernehmen erfahrene Kolleginnen und Kollegen.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Kaufmännische Ausbildung",
+      "icon": "🧾",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung abgeschlossen",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahrung im Ersatzteillager",
+          "icon": "📦"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Technische Ausbildung",
+      "icon": "🔧",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung abgeschlossen",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahrung im Ersatzteillager",
+          "icon": "📦"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Landwirt / Agrarservice / GaLaBau",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung abgeschlossen",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahrung im Ersatzteillager",
+          "icon": "📦"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in anderem Beruf",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahrung im Ersatzteillager",
+          "icon": "📦"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "1871",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "40",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "3",
+        "label": "Standorte"
+      }
+    ],
+    "text": "Traditionsunternehmen aus Versmold mit über 150 Jahren Geschichte in Land-, Kommunal-, Bau- und Gartentechnik. Bartling ist Vertragspartner von John Deere und Bobcat und mit den Standorten Versmold, Soest und Detmold regional etabliert. Mittel- bis langfristig ist für dich sogar die Leitung des Ersatzteillagers denkbar."
+  },
+  "kunde_tab": "25 Bartling Landtechnik",
+  "quelle": "https://bartling-landtechnik.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Versmold"
+  },
+  "hero_bild": "img/hero-ersatzteillager.jpg",
+  "bilder": [
+    "img/f1-ersatzteile.jpg",
+    "img/f2-werkstatt.jpg",
+    "img/f3-aufsitzmaeher.jpg",
+    "img/f4-teleskoplader.jpg",
+    "img/f5-team.jpg",
+    "img/f6-traktor.jpg",
+    "img/f8-rasentraktor.jpg",
+    "img/f7-standort.jpg"
+  ]
+}
